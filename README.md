@@ -22,12 +22,12 @@ To run this game, you need to have the `turtle` module installed. If you don't h
 
 ```bash
 pip install turtle
-
+```
 ## Usage
 
 To start the game, simply run the following command in your terminal:
 
 ```bash
 python main.py
-
+```
 
